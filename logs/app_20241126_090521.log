@@ -1,0 +1,2 @@
+2024-11-26 09:05:21,394 - IrisClassifier - ERROR - Application error: 'IrisClassifierApp' object has no attribute '_handle_manual_input'
+2024-11-26 09:05:24,739 - IrisClassifier - ERROR - Application error: 'IrisClassifierApp' object has no attribute '_handle_file_upload'
