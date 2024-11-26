@@ -2,7 +2,6 @@
 Configuration management utilities for the Iris Classifier application.
 """
 
-import yaml
 import logging
 
 logger = logging.getLogger(__name__)
